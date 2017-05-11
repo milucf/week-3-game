@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #001A57;
+}
+
+#dashedWord{
+    color:#ffffff;
+    word-wrap: break-word;
+}
+
+#descdiv{
+    color:#aaaaaa;
+    margin: 20px 0px 5px 0px ;
+}
+input[type=text]{
+    width:90px;
+}
+footer{
+    background-color: #2d2d30;
+    padding: 80px;
+    color:#666666;
+    font-size: 9px;
+    text-align: center;
+    margin-top:80px;
+    border-top:5px solid #964B00;
+}
